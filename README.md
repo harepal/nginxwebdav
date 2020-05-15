@@ -1,6 +1,6 @@
 # nginxwebdav
 
-+ Image docker webdav pour traefik
++ Image docker webdav pour traefik, CORS OK
 
 + Générer le fichier de password htpasswd
 ```
